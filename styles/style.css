@@ -62,13 +62,8 @@
   block-size: 9px;
   inline-size: 9px;
   margin-inline-start: 10px;
-<<<<<<< HEAD
   background-color: var(--accent-color);
   filter: drop-shadow(0px 0px 4px var(--accent-color));
-=======
-  background-color: #ff0070;
-  filter: drop-shadow(0px 0px 4px #ff0070);
->>>>>>> 2a5f495a314d324c7c9f8468f5ca2889341fcdb7
   border-radius: 50%;
 }
 
@@ -432,12 +427,7 @@
   }
 
   .content__section {
-<<<<<<< HEAD
     grid-template-columns: 315px 1fr;
-=======
-    grid-template-columns: 314px 1fr;
-    grid-template-rows: repeat(auto-fit, 1fr);
->>>>>>> 2a5f495a314d324c7c9f8468f5ca2889341fcdb7
     column-gap: 20px;
   }
 
