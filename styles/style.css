@@ -191,10 +191,6 @@
 
 .article__link:focus-visible {
   outline: 1px solid var(--txt-color);
-  padding-inline-start: 6px;
-  padding-inline-end: 8px;
-  padding-block-end: 5px;
-  outline-offset: -6px;
 }
 
 .article__desctription-list {
