@@ -4,7 +4,7 @@
 */
 
 :root {
-  --font: 'IBM Plex mono', Arial, Helvetica, sans-serif, monospace;
+  --font: 'IBM Plex mono', 'Courier New', Courier, monospace;
   --bg-image: url(../images/cover-image-dark.png);
   --bg-color: #000028;
   --title-color: #db00ff;
